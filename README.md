@@ -18,7 +18,9 @@ The average latency and boxplots were generated to visualize performance.
 
 ## Average Latency per Test Case
 
-fake_1: average latency = 0.0609 seconds
-fake_2: average latency = 0.0600 seconds
-real_1: average latency = 0.0601 seconds
-real_2: average latency = 0.0606 seconds
+| Test       | average latency | 
+|:-----------|:---------------:|
+| fake_1     |  0.0609 seconds |
+| fake_2     |  0.0600 seconds |
+| real_1     |  0.0601 seconds |
+| real_2     |  0.0606 seconds |
